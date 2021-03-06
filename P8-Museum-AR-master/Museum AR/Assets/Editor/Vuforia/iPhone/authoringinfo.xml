@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.0.12">
+<ModelTarget name="iPhone6_Color" targetId="6df9b7a4585e4327bff2d0629a665724" version="11.1" toolVersion="9.0.12" bbox="-0.039205 -0.004300 -0.079100 0.039205 0.003550 0.079106" previewImage="6df9b7a4585e4327bff2d0629a665724_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="iPhone6_Colors_assembly" assemblyId="2f217a69e88e4907b813706312649b99">
+<Part name="iPhone6_Color" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-3.00243e-06 -0.000286663 0.18852" rotation="AD: 0.9709660215516037 -0.35835777544866043 0.9808887721451689 207.94" image="iPhone6_Color_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

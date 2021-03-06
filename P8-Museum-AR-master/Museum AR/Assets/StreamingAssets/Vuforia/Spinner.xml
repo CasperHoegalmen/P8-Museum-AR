@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Spinner" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="Spinners_assembly" assemblyId="345564e2dc2a4e3bb195784109988794">
+<Part name="Spinner" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00437143 -0.00575167 0.233561" rotation="AD: -0.9999999995281676 0.0064440625395836585 -0.00664204806538904 91.736" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.00429027 0.00590916 0.233443" rotation="AD: -0.00029184466920307943 1.421128854007951 -1.4073981899236814 179.983" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.00292484 0.00787916 0.226501" rotation="AD: 0.8884358331839416 -0.5611841763717786 1.5613360925397985 199.26" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

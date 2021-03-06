@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Nisse_maya" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="Nisse_mayas_assembly" assemblyId="a5740af9f17344c7830e050406cdf071">
+<Part name="Nisse_maya" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00709826 0.0512163 0.248172" rotation="AD: -0.04416555301398312 -1.0183320572924561 5.159781762135905 179.81" trained="yes">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.00709826 0.0512163 0.248172" rotation="AD: -0.04416555301398312 -1.0183320572924561 5.159781762135905 179.81" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="Vesthimmerland_Training" />
+</QCARConfig>

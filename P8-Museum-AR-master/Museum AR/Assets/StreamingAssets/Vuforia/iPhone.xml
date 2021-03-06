@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="iPhone6_Color" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="iPhone6_Colors_assembly" assemblyId="2f217a69e88e4907b813706312649b99">
+<Part name="iPhone6_Color" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-3.00243e-06 -0.000286663 0.18852" rotation="AD: 0.9709660215516037 -0.35835777544866043 0.9808887721451689 207.94" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
